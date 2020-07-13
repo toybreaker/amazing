@@ -1,0 +1,80 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Amazing",
+    "description": "",
+    "home_page_url": "https://cinghioni.junglestar.org",
+    "feed_url": "https://cinghioni.junglestar.org/feed.json",
+    "user_comment": "",
+    "icon": "https://cinghioni.junglestar.org/media/website/J-logo-white.png",
+    "author": {
+        "name": "rok"
+    },
+    "items": [
+        {
+            "id": "https://cinghioni.junglestar.org/papaya-non-dairy-yogurt/",
+            "url": "https://cinghioni.junglestar.org/papaya-non-dairy-yogurt/",
+            "title": "Papaya. Non-dairy yogurt.",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n",
+            "content_html": "\n<blockquote>\n<p>The sun setting on the Ucayali, with the Andean foothills in the background, and the taste of freshly cut papaya in my mouth, restoring a body utterly shattered, made for one of those ‘ones to tell the grandchildren’ memories. - <em>Mark Barrowcliffe</em><br><br></p>\n</blockquote>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n<p> </p>",
+            "image": "https://cinghioni.junglestar.org/media/posts/4/papaya.jpg",
+            "author": {
+                "name": "rok"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-30T01:31:09+08:00",
+            "date_modified": "2020-06-30T01:31:09+08:00"
+        },
+        {
+            "id": "https://cinghioni.junglestar.org/apples-keep-the-doctor-away/",
+            "url": "https://cinghioni.junglestar.org/apples-keep-the-doctor-away/",
+            "title": "Apples. Keep the doctor away.",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n",
+            "content_html": "\n<blockquote>\n<p><br>Strengthen me with flagons of wine, refresh me with apples, for I am sick of love.<br><br></p>\n</blockquote>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n<p> </p>",
+            "image": "https://cinghioni.junglestar.org/media/posts/3/apples-03.jpg",
+            "author": {
+                "name": "rok"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-30T01:31:09+08:00",
+            "date_modified": "2020-06-30T01:31:09+08:00"
+        },
+        {
+            "id": "https://cinghioni.junglestar.org/dddd/",
+            "url": "https://cinghioni.junglestar.org/dddd/",
+            "title": "Garlic. Natural antibiotic.",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum.</p>\n",
+            "content_html": "\n<blockquote>\n<p>The combination of olive oil, garlic and lemon juice lifts the spirits in winter.</p>\n</blockquote>\n<p> </p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum.<br><br><br></p>",
+            "image": "https://cinghioni.junglestar.org/media/posts/1/garlic.jpg",
+            "author": {
+                "name": "rok"
+            },
+            "tags": [
+                   "guts",
+                   "garlic",
+                   "cleaner"
+            ],
+            "date_published": "2020-06-30T01:31:09+08:00",
+            "date_modified": "2020-06-30T01:31:09+08:00"
+        },
+        {
+            "id": "https://cinghioni.junglestar.org/chillies/",
+            "url": "https://cinghioni.junglestar.org/chillies/",
+            "title": "Chillies. Gut cleaners.",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum.</p>\n",
+            "content_html": "\n<p> </p>\n<blockquote>\n<p>I am the kind of person who really will drive hours for a bowl of chili. I’m not a three-star restaurant kind of a person; I’m just a food person.</p>\n</blockquote>\n<p> </p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum. Fusce condimentum libero ligula, eget facilisis mi efficitur sit amet. Donec a purus efficitur tellus ornare tristique quis a risus. Praesent nec libero quis arcu semper congue id ac erat. Nam id malesuada diam. Cras eget lorem quis nibh interdum ultricies. Aliquam erat arcu, lacinia id placerat et, egestas non nibh. Donec ac volutpat tortor.<br><br></p>",
+            "image": "https://cinghioni.junglestar.org/media/posts/2/chillies.jpg",
+            "author": {
+                "name": "rok"
+            },
+            "tags": [
+                   "guts",
+                   "cleaner",
+                   "chili"
+            ],
+            "date_published": "2020-06-30T01:31:09+08:00",
+            "date_modified": "2020-06-30T01:31:09+08:00"
+        }
+    ]
+}

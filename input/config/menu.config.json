@@ -1,0 +1,52 @@
+[
+    {
+        "name": "top_menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1593349614421,
+                "label": "Chillies",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1593349633759,
+                "label": "Garlic",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1593413971594,
+                "label": "Apples",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1593413984531,
+                "label": "Papaya",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "items": []
+            }
+        ]
+    }
+]
