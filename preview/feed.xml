@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Amazing Gee</title>
+    <link href="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/feed.xml" rel="self" />
+    <link href="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>rok</name>
+    </author>
+    <id>file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview</id>
+
+    <entry>
+        <title>Apples. Keep the doctor away.</title>
+        <author>
+            <name>rok</name>
+        </author>
+        <link href="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/apples-keep-the-doctor-away/index.html"/>
+        <id>file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/apples-keep-the-doctor-away/index.html</id>
+
+        <updated>2020-07-13T17:41:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/3/apples-03.jpg" alt="Apples. Keep the doctor away." />
+                    <p>Junglestar<br>We believe in making life easy for you and your customers.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/3/apples-03.jpg" alt="Apples. Keep the doctor away." />
+                
+<blockquote>
+<p><br>Strengthen me with flagons of wine, refresh me with apples, for I am sick of love.<br><br></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Garlic. Natural antibiotic.</title>
+        <author>
+            <name>rok</name>
+        </author>
+        <link href="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/dddd/index.html"/>
+        <id>file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/dddd/index.html</id>
+            <category term="guts"/>
+            <category term="garlic"/>
+            <category term="cleaner"/>
+
+        <updated>2020-07-13T17:41:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/1/garlic.jpg" alt="Garlic Natural antibiotic" />
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/1/garlic.jpg" alt="Garlic Natural antibiotic" />
+                
+<blockquote>
+<p>The combination of olive oil, garlic and lemon juice lifts the spirits in winter.</p>
+</blockquote>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum.<br><br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chillies. Gut cleaners.</title>
+        <author>
+            <name>rok</name>
+        </author>
+        <link href="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/chillies/index.html"/>
+        <id>file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/chillies/index.html</id>
+            <category term="guts"/>
+            <category term="cleaner"/>
+            <category term="chili"/>
+
+        <updated>2020-07-13T17:41:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/2/chillies.jpg" alt="Chillies Gut cleaners" />
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/2/chillies.jpg" alt="Chillies Gut cleaners" />
+                
+<p> </p>
+<blockquote>
+<p>I am the kind of person who really will drive hours for a bowl of chili. I’m not a three-star restaurant kind of a person; I’m just a food person.</p>
+</blockquote>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis, urna vel faucibus rutrum, purus ex faucibus tellus, sed varius urna nisi ac arcu. Quisque tristique hendrerit orci et faucibus. Donec ut vestibulum justo. Phasellus at mi est. Duis ornare ex ut felis consectetur, id placerat magna hendrerit. Donec et mi venenatis, aliquet metus et, volutpat nisi. Vestibulum rhoncus, eros in suscipit mollis, risus purus aliquam nibh, id convallis dolor felis in diam. Curabitur volutpat turpis at nisi semper faucibus et efficitur elit. Duis nec lorem vel felis malesuada bibendum vel nec leo. Donec eget ipsum a urna lobortis vestibulum. Fusce condimentum libero ligula, eget facilisis mi efficitur sit amet. Donec a purus efficitur tellus ornare tristique quis a risus. Praesent nec libero quis arcu semper congue id ac erat. Nam id malesuada diam. Cras eget lorem quis nibh interdum ultricies. Aliquam erat arcu, lacinia id placerat et, egestas non nibh. Donec ac volutpat tortor.<br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Papaya. Non-dairy yogurt.</title>
+        <author>
+            <name>rok</name>
+        </author>
+        <link href="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/papaya-non-dairy-yogurt/index.html"/>
+        <id>file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/papaya-non-dairy-yogurt/index.html</id>
+
+        <updated>2020-07-13T17:41:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/4/papaya.jpg" alt="Papaya. Non-dairy yogurt." />
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/lucabider/Documents/GitHub/publii/amazing-gee/preview/media/posts/4/papaya.jpg" alt="Papaya. Non-dairy yogurt." />
+                
+<blockquote>
+<p>The sun setting on the Ucayali, with the Andean foothills in the background, and the taste of freshly cut papaya in my mouth, restoring a body utterly shattered, made for one of those ‘ones to tell the grandchildren’ memories. - <em>Mark Barrowcliffe</em><br><br></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
