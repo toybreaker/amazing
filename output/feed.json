@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Amazing",
+    "title": "Amazing Gee",
     "description": "",
     "home_page_url": "https://cinghioni.junglestar.org",
     "feed_url": "https://cinghioni.junglestar.org/feed.json",
@@ -11,25 +11,10 @@
     },
     "items": [
         {
-            "id": "https://cinghioni.junglestar.org/papaya-non-dairy-yogurt/",
-            "url": "https://cinghioni.junglestar.org/papaya-non-dairy-yogurt/",
-            "title": "Papaya. Non-dairy yogurt.",
-            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n",
-            "content_html": "\n<blockquote>\n<p>The sun setting on the Ucayali, with the Andean foothills in the background, and the taste of freshly cut papaya in my mouth, restoring a body utterly shattered, made for one of those ‘ones to tell the grandchildren’ memories. - <em>Mark Barrowcliffe</em><br><br></p>\n</blockquote>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n<p> </p>",
-            "image": "https://cinghioni.junglestar.org/media/posts/4/papaya.jpg",
-            "author": {
-                "name": "rok"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-30T01:31:09+08:00",
-            "date_modified": "2020-06-30T01:31:09+08:00"
-        },
-        {
             "id": "https://cinghioni.junglestar.org/apples-keep-the-doctor-away/",
             "url": "https://cinghioni.junglestar.org/apples-keep-the-doctor-away/",
             "title": "Apples. Keep the doctor away.",
-            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n",
+            "summary": "<p>Junglestar<br>We believe in making life easy for you and your customers.</p>\n",
             "content_html": "\n<blockquote>\n<p><br>Strengthen me with flagons of wine, refresh me with apples, for I am sick of love.<br><br></p>\n</blockquote>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n<p> </p>",
             "image": "https://cinghioni.junglestar.org/media/posts/3/apples-03.jpg",
             "author": {
@@ -37,8 +22,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-30T01:31:09+08:00",
-            "date_modified": "2020-06-30T01:31:09+08:00"
+            "date_published": "2020-07-13T18:06:58+08:00",
+            "date_modified": "2020-07-13T18:06:58+08:00"
         },
         {
             "id": "https://cinghioni.junglestar.org/dddd/",
@@ -55,8 +40,8 @@
                    "garlic",
                    "cleaner"
             ],
-            "date_published": "2020-06-30T01:31:09+08:00",
-            "date_modified": "2020-06-30T01:31:09+08:00"
+            "date_published": "2020-07-13T18:06:58+08:00",
+            "date_modified": "2020-07-13T18:06:58+08:00"
         },
         {
             "id": "https://cinghioni.junglestar.org/chillies/",
@@ -73,8 +58,23 @@
                    "cleaner",
                    "chili"
             ],
-            "date_published": "2020-06-30T01:31:09+08:00",
-            "date_modified": "2020-06-30T01:31:09+08:00"
+            "date_published": "2020-07-13T18:06:58+08:00",
+            "date_modified": "2020-07-13T18:06:58+08:00"
+        },
+        {
+            "id": "https://cinghioni.junglestar.org/papaya-non-dairy-yogurt/",
+            "url": "https://cinghioni.junglestar.org/papaya-non-dairy-yogurt/",
+            "title": "Papaya. Non-dairy yogurt.",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n",
+            "content_html": "\n<blockquote>\n<p>The sun setting on the Ucayali, with the Andean foothills in the background, and the taste of freshly cut papaya in my mouth, restoring a body utterly shattered, made for one of those ‘ones to tell the grandchildren’ memories. - <em>Mark Barrowcliffe</em><br><br></p>\n</blockquote>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas molestie nulla. Morbi condimentum efficitur lectus ut luctus. Integer vel nisi ultrices, laoreet mauris non, fringilla nisi. Donec vel pellentesque augue. Suspendisse elementum bibendum eros, quis egestas diam pretium sit amet.</p>\n<p> </p>",
+            "image": "https://cinghioni.junglestar.org/media/posts/4/papaya.jpg",
+            "author": {
+                "name": "rok"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-13T18:06:58+08:00",
+            "date_modified": "2020-07-13T18:06:58+08:00"
         }
     ]
 }

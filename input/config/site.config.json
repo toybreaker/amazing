@@ -1,5 +1,5 @@
 {
-    "name": "amazing-gee",
+    "name": "amazing",
     "displayName": "Amazing Gee",
     "synced": "synced",
     "logo": {
@@ -140,15 +140,15 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii amazing-gee",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
         "passphrase": "",
         "sftpkey": "",
         "s3": {
-            "id": "publii-s3-id amazing-gee",
-            "key": "publii-s3-key amazing-gee",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "prefix": "",
@@ -160,18 +160,18 @@
             "user": "toybreaker",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token amazing-gee",
+            "token": "",
             "parallelOperations": 1
         },
         "gitlab": {
             "server": "https://gitlab.com/",
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token amazing-gee"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id amazing-gee",
-            "token": "publii-netlify-token amazing-gee"
+            "id": "publii-netlify-id amazing",
+            "token": "publii-netlify-token amazing"
         },
         "google": {
             "key": "",
@@ -184,5 +184,5 @@
         }
     },
     "theme": "rokle",
-    "syncDate": 1593451892647
+    "syncDate": 1594634831664
 }
